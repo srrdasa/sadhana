@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740118234200",
+    "firebase_url": "https://sadhana-app-1c04a.firebaseio.com",
+    "project_id": "sadhana-app-1c04a",
+    "storage_bucket": "sadhana-app-1c04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740118234200:android:66c4315caa79bc11",
+        "android_client_info": {
+          "package_name": "com.yourcompany.sadhanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740118234200-im6qbjt2jfo70964mcfrat6pg92co49j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.sadhanaapp",
+            "certificate_hash": "56f34f90a9cbc66da8bdea8a9d27054b51de8ad5"
+          }
+        },
+        {
+          "client_id": "740118234200-gl8c2j408m949rligbo830npr8fnqan9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADN18ZksW_l3AalYoeBxVXJVgjyNUEEEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740118234200-gl8c2j408m949rligbo830npr8fnqan9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
